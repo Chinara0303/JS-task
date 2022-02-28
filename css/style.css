@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.box {
+  border: 1px solid;
+  margin-bottom: 10px;
+}
+
+.box img {
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */
